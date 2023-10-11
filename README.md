@@ -63,3 +63,11 @@ Hi, This is Shahriar Hossain from Bangladesh. This EFI folder was created by me 
   <li>Google Chrome freezes on first time opening. Disable <b>Hardware Acceleretion</b> to fix the issue.</li>
   <li>Adobe aplication crashes due to missing intel_fast_memset. Follow <a href="https://gist.github.com/mikigal/8e1f804fcd7dbafbded2f236653be7c8">this guide</a> to get rid of the issue.</li>
 </ul>
+<br/> <br/>
+<b>Suported MacOS versions</b>:
+<ul>
+  <li>MacOS Ventura 13.X.X</li>
+  <li>MacOS Monterey 12.X.X</li>
+  <li>MacOS Big Sur 11.X.X</li>
+  <li>MacOS Catalina 10.X.X</li>
+</ul>
